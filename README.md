@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohammed-afrid-3818801a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammed-afrid-3818801a1/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohammed-afrid-3818801a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammed-afrid-3818801a1/" height="30" width="40" /></a>
 <a href="https://instagram.com/m_afrid455" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_afrid455" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/m_afrid45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="m_afrid45" height="30" width="40" /></a>
 </p>
@@ -32,3 +32,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afrid45&show_icons=true&locale=en" alt="afrid45" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afrid45&" alt="afrid45" /></p>
+
